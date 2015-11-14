@@ -5,4 +5,4 @@ decision tree / choose-your-own-adventure about the age old question "do I reall
 
 developed by [Kim Slawson](mailto:kim@slawson.org) ([OxC0FFEE on twitter](https://www.twitter.com/OxC0FFEE)) with [Twine](http://twinery.org/).
 
-coming soon to (http://youneedafucking.website)
+coming soon to http://youneedafucking.website.
